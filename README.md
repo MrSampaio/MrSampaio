@@ -35,7 +35,7 @@
 </div>
 
 
-![snake svg](https://github.com/MrSampaio/MrSampaio/blob/main/.github/workflows/blank.yml)
+![snake svg](https://github.com/MrSampaio/MrSampaio/blob/output/github-contribution-grid-snake.svg)
 
 
 <!-- - 🔭 I’m currently working on ...
