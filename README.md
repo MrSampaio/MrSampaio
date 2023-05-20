@@ -37,7 +37,7 @@
 
 
 
-![snake gif](https://github.com/MrSampaio/MrSampaio/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/mrsampaio/mrsampaio/blob/output/github-contribution-grid-snake.svg)
 
 
 <!-- - 🔭 I’m currently working on ...
