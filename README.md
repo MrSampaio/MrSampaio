@@ -33,6 +33,6 @@
  <a href="https://wa.me/+5511988739957" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
  <a href="https://www.linkedin.com/in/jusampa"  target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
  
-<!--  ![Snake animation](https://github.com/MrSampaio/MrSampaio/blob/output/github-contribution-grid-snake.svg) -->
+(https://github.com/MrSampaio/MrSampaio/blob/output/github-contribution-grid-snake.svg)
 
 <!--  ![Snake animation](https://github.com/MrSampaio/MrSampaio/blob/output/github-contribution-grid-snake.svg) -->
