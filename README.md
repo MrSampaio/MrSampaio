@@ -1,8 +1,3 @@
-<style>
- *{
-  color: red;
- }
-</style>
 <h1>Olá! Sou o Sampaio ^_^</h1>
 <h3>Bem-vindo(a) ao meu perfil!</h3>
  
