@@ -1,5 +1,10 @@
+<style>
+ *{
+  color: red;
+ }
+</style>
 <h1>Olá! Sou o Sampaio ^_^</h1>
-<h3 style="text-decoration: none">Bem-vindo(a) ao meu perfil!</h3>
+<h3>Bem-vindo(a) ao meu perfil!</h3>
  
 <div>
   <a href="https://github.com/MrSampaio"></a>
