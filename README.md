@@ -18,6 +18,7 @@
  <img align="center" height="50" width="50" src="https://github.com/MrSampaio/MrSampaio/assets/118141328/7e101ff2-1d98-4970-8925-3163834f8ace">
  <img align="center" height="50" width="50" src="https://github.com/MrSampaio/MrSampaio/assets/118141328/38bf64d4-5d44-44dd-abd5-ee86d16deb41">
  <img align="center" height="50" width="50" src="https://github.com/MrSampaio/MrSampaio/assets/118141328/956aaa6a-39df-4b1d-910c-7da0785b5d4e">
+ <img align="center" height="50" width="50" src="https://github.com/MrSampaio/MrSampaio/assets/118141328/8a2334b8-4c80-4704-829c-7453609716a2">
 
 </div>
 <br>
