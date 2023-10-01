@@ -20,10 +20,7 @@
  <img align="center" height="50" width="50" src="https://github.com/MrSampaio/MrSampaio/assets/118141328/956aaa6a-39df-4b1d-910c-7da0785b5d4e">
  <img align="center" height="50" width="50" src="https://github.com/MrSampaio/MrSampaio/assets/118141328/8a2334b8-4c80-4704-829c-7453609716a2">
  <img align="center" height="50" width="50" src="https://github.com/MrSampaio/MrSampaio/assets/118141328/54b74022-64dc-4181-9ddb-31bae3ce6a57">
-
-
-
-
+ <img align="center" height="50" width="50" src="https://github.com/MrSampaio/MrSampaio/assets/118141328/d33945fa-c5f3-4d2a-9031-107b34a222a0">
 </div>
 <br>
 <div style="display: inline-block">
