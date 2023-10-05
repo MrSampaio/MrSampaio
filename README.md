@@ -2,7 +2,7 @@
 <h3>Bem-vindo(a) ao meu perfil!</h3>
  
 <div>
-  <a href="https://github.com/MrSampaio"></a>
+  <a href="https://github.com/MrSampaio"> </a>
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=mrsampaio&show_icons=true&theme=radical&hide=prs&show_icons=true&rank_icon=github">
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrsampaio&layout=compact&theme=radical">
 </div>
