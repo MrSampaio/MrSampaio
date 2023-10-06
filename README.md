@@ -8,7 +8,7 @@
 </div>
 <br>
 <div style="display: inline-block">
- <h2 style="color: #fff">Linguagens, Tecnologias, Frameworks e Bibliotecas</h2>
+ <h2 style="color: #fff">Linguagens, Tecnologias, Frameworks, Bibliotecas</h2>
  <img align="center" height="50" width="50" src="https://github.com/MrSampaio/MrSampaio/assets/118141328/4ed194f0-539b-4c10-9f59-64fe212a0654">
  <img align="center" height="50" width="50" src="https://github.com/MrSampaio/MrSampaio/assets/118141328/ff42c100-674d-48c6-968f-69003dc30633">
  <img align="center" height="50" width="50" src="https://github.com/MrSampaio/MrSampaio/assets/118141328/948d0800-dcf3-40c3-afa3-5d4b6a8ea134">
