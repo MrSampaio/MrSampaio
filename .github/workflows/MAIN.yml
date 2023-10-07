@@ -2,6 +2,9 @@
 
 name: Generate Snake
 
+permissions:
+  actions: write
+
 # Controls when the action will run. This action runs every 6 hours.
 
 on:
