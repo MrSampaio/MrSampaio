@@ -4,6 +4,18 @@ name: Generate Snake
 
 permissions:
   actions: write
+  checks: write
+  contents: write
+  deployments: write
+  id-token: write
+  issues: write
+  discussions: write
+  packages: write
+  pages: write
+  pull-requests: write
+  repository-projects: write
+  security-events: write
+  statuses: write
 
 # Controls when the action will run. This action runs every 6 hours.
 
