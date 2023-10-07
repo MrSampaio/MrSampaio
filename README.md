@@ -39,4 +39,4 @@
  
 <!-- <img align="center" height="50" width="50" src="https://github.com/MrSampaio/MrSampaio/blob/output/github-contribution-grid-snake.svg"> -->
 
-![snake gif](https://github.com/MrSampaio/MrSampaio/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/MrSampaio/MrSampaio/blob/output/github-contribution-grid-snake.svg)
