@@ -16,12 +16,12 @@ permissions:
 # GitHub Action for generating a contribution graph with a snake eating your contributions.
 
 name: GenerateSnake 
- on: 
+on:
    workflow_dispatch: 
    schedule: 
      - cron: "0 15 * * *" 
   
- jobs: 
+jobs: 
    update-repository: 
      name: MrSampaio
      runs-on: ubuntu-latest 
