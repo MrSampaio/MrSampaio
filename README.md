@@ -4,8 +4,6 @@
   <a href="https://github.com/MrSampaio"></a>
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=mrsampaio&show_icons=true&theme=radical&hide=prs&show_icons=true&rank_icon=github">
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrsampaio&layout=compact&theme=radical">
-
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MrSampaio)](https://github.com/MrSampaio/github-readme-stats)
 </div>
 <br>
 <div style="display: inline-block">
@@ -29,7 +27,7 @@
  <img align="center" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
  <img align="center" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
  <img align="center" src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white">
- <img align="center" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">
+ <img align="center" src="https://t/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">
 </div>
 <br>
 <div style="display: inline-block">
