@@ -4,6 +4,8 @@
   <a href="https://github.com/MrSampaio"></a>
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=mrsampaio&show_icons=true&theme=radical&hide=prs&show_icons=true&rank_icon=github">
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrsampaio&layout=compact&theme=radical">
+
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MrSampaio)](https://github.com/MrSampaio/github-readme-stats)
 </div>
 <br>
 <div style="display: inline-block">
