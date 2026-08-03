@@ -4,8 +4,9 @@
 
 <div>
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=F1F1F1&center=true&vCenter=true&random=false&width=524&lines=%E2%8A%B9+Hello+World!+My+name+is+Sampaio.+%CB%99%E1%B5%95%CB%99+%E2%8A%B9+" alt="Typing SVG">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=673399&center=true&vCenter=true&random=false&width=524&lines=%E2%8A%B9+Hello+World%21+My+name+is+Sampaio.+%28%E2%8C%90%E2%96%A0_%E2%96%A0%29+%E2%8A%B9" alt="Typing SVG" />
   </a>
+
 </div>
 
 <br>
@@ -24,7 +25,6 @@ Before diving into the mobile world, I built a solid foundation as a Full Stack 
 
 ## My Stats
 <div>
- 
   <img 
     alt="GitHub Stats" 
     height="200" 
@@ -37,24 +37,42 @@ Before diving into the mobile world, I built a solid foundation as a Full Stack 
   />
 </div>
 
----
-<br>
+## My Stack
 
-<div>
-  
-  <!-- <h2>Linguagens, Tecnologias, Frameworks e Bibliotecas</h2>
-  <img height="50" width="50" src="https://github.com/MrSampaio/MrSampaio/assets/118141328/4ed194f0-539b-4c10-9f59-64fe212a0654">
-  <img height="50" width="50" src="https://github.com/MrSampaio/MrSampaio/assets/118141328/ff42c100-674d-48c6-968f-69003dc30633">
-  <img height="50" width="50" src="https://github.com/MrSampaio/MrSampaio/assets/118141328/948d0800-dcf3-40c3-afa3-5d4b6a8ea134">
-  <img height="50" width="50" src="https://github.com/MrSampaio/MrSampaio/assets/118141328/4193a061-6d00-45a8-aac1-9f7069ba6861">
-  <img height="50" width="50" src="https://github.com/MrSampaio/MrSampaio/assets/118141328/e580cf0c-c1c8-445f-b226-215cb52dfbaf">
-  <img height="50" width="50" src="https://github.com/MrSampaio/MrSampaio/assets/118141328/88f55c06-2a92-4e86-912e-b37728d17172">
-  <img height="50" width="50" src="https://github.com/MrSampaio/MrSampaio/assets/118141328/7e101ff2-1d98-4970-8925-3163834f8ace">
-  <img height="50" width="50" src="https://github.com/MrSampaio/MrSampaio/assets/118141328/38bf64d4-5d44-44dd-abd5-ee86d16deb41">
-  <img height="50" width="50" src="https://github.com/MrSampaio/MrSampaio/assets/118141328/956aaa6a-39df-4b1d-910c-7da0785b5d4e">
-  <img height="50" width="50" src="https://github.com/MrSampaio/MrSampaio/assets/118141328/8a2334b8-4c80-4704-829c-7453609716a2">
-  <img height="50" width="50" src="https://github.com/MrSampaio/MrSampaio/assets/118141328/54b74022-64dc-4181-9ddb-31bae3ce6a57">
-  <img height="50" width="50" src="https://github.com/MrSampaio/MrSampaio/assets/118141328/d33945fa-c5f3-4d2a-9031-107b34a222a0"> -->
+### Languages
+<div style="display: flex; gap: 30px; flex-wrap: wrap; margin-bottom: 20px;">
+  <img height="50" width="50" alt="Swift" title="Swift" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swift/swift-original.svg" />
+  <img height="50" width="50" alt="JavaScript" title="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+  <img height="50" width="50" alt="Java" title="Java" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
+  <img height="50" width="50" alt="PHP" title="PHP" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
+  <img height="50" width="50" alt="C++" title="C++" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
+  <img height="50" width="50" alt="HTML5" title="HTML5" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+  <img height="50" width="50" alt="CSS3" title="CSS3" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+</div>
+
+### Frameworks & Libraries
+<div style="display: flex; gap: 30px; flex-wrap: wrap; margin-bottom: 20px;">
+  <img height="50" width="50" alt="React" title="React" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
+  <img height="50" width="50" alt="Angular" title="Angular" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" />
+  <img height="50" width="50" alt="Spring" title="Spring" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" />
+  <img height="50" width="50" alt="Bootstrap" title="Bootstrap" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" />
+  <img height="50" width="50" alt="Tailwind CSS" title="Tailwind CSS" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original-wordmark.svg" />
+</div>
+
+### Databases & Cloud
+<div style="display: flex; gap: 30px; flex-wrap: wrap; margin-bottom: 20px;">
+  <img height="50" width="50" alt="MySQL" title="MySQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-plain-wordmark.svg" />
+  <img height="50" width="50" alt="MongoDB" title="MongoDB" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-plain-wordmark.svg" />
+  <img height="50" width="50" alt="Oracle" title="Oracle" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg" />
+  <img height="50" width="50" alt="Azure SQL" title="Azure SQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" />
+  <img height="50" width="50" alt="Supabase" title="Supabase" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/supabase/supabase-original.svg" />
+</div>
+
+### Design & Tools
+<div style="display: flex; gap: 30px; flex-wrap: wrap;">
+  <img height="50" width="50" alt="Figma" title="Figma" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
+  <img height="50" width="50" alt="Photoshop" title="Photoshop" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" />
+    <img height="50" width="50" alt="Photoshop" title="Illustrator" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/illustrator/illustrator-original.svg" />
 </div>
 
 <br>
