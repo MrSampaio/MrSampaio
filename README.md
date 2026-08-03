@@ -1,30 +1,48 @@
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=673399&height=100&section=header" width="100%" />
+</div>
+
 <div>
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=F1F1F1&center=true&vCenter=true&random=false&width=524&lines=%E2%8A%B9+Ola!+Sou+o+Sampaio!+%CB%99%E1%B5%95%CB%99+%E2%8A%B9+" alt="Typing SVG">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=F1F1F1&center=true&vCenter=true&random=false&width=524&lines=%E2%8A%B9+Hello+World!+My+name+is+Sampaio.+%CB%99%E1%B5%95%CB%99+%E2%8A%B9+" alt="Typing SVG">
   </a>
-  
-  <h3>Bem-vindo(a) ao meu perfil!</h3>
 </div>
 
 <br>
 
+## About Me
 <div>
+  <h4>iOS Developer @ Apple Developer Academy | Information Systems Student</h4>
+
+I am an software developer who loves to build high performance and intuitive systems. I am also a student of Information Systems at Senac São Paulo, with a degree in IT Technician from ETEC Vila Formosa. Currently I am enjoying my role as Swift Developer at Apple Developer Academy.
+
+Before diving into the mobile world, I built a solid foundation as a Full Stack Web Developer and had a spell in corporate IT infrastructure support. This combination of experiences gives me a very strong sense of both system reliability and end-to-end engineering that allows me to see the big picture of every project I build up!
+
+</div>
+
+---
+
+## My Stats
+<div>
+ 
   <img 
     alt="GitHub Stats" 
     height="200" 
-    src="https://github-readme-stats-two-omega-43.vercel.app/api?username=MrSampaio&show_icons=true&theme=tokyonight&locale=pt-br&include_all_commits=true&cache_seconds=86400&hide_rank=true"
+    src="https://github-stats-extended.vercel.app/api?username=MrSampaio&show_icons=true&theme=tokyonight&locale=en&include_all_commits=true&cache_seconds=86400&hide_rank=true"
   />
   <img 
     alt="Top Languages" 
     height="200" 
-    src="https://github-readme-stats-two-omega-43.vercel.app/api/top-langs/?username=MrSampaio&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=8" 
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=MrSampaio&theme=tokyonight&layout=compact&custom_title=Languages&langs_count=8" 
   />
 </div>
 
+---
 <br>
 
 <div>
-  <h2>Linguagens, Tecnologias, Frameworks e Bibliotecas</h2>
+  
+  <!-- <h2>Linguagens, Tecnologias, Frameworks e Bibliotecas</h2>
   <img height="50" width="50" src="https://github.com/MrSampaio/MrSampaio/assets/118141328/4ed194f0-539b-4c10-9f59-64fe212a0654">
   <img height="50" width="50" src="https://github.com/MrSampaio/MrSampaio/assets/118141328/ff42c100-674d-48c6-968f-69003dc30633">
   <img height="50" width="50" src="https://github.com/MrSampaio/MrSampaio/assets/118141328/948d0800-dcf3-40c3-afa3-5d4b6a8ea134">
@@ -36,7 +54,7 @@
   <img height="50" width="50" src="https://github.com/MrSampaio/MrSampaio/assets/118141328/956aaa6a-39df-4b1d-910c-7da0785b5d4e">
   <img height="50" width="50" src="https://github.com/MrSampaio/MrSampaio/assets/118141328/8a2334b8-4c80-4704-829c-7453609716a2">
   <img height="50" width="50" src="https://github.com/MrSampaio/MrSampaio/assets/118141328/54b74022-64dc-4181-9ddb-31bae3ce6a57">
-  <img height="50" width="50" src="https://github.com/MrSampaio/MrSampaio/assets/118141328/d33945fa-c5f3-4d2a-9031-107b34a222a0">
+  <img height="50" width="50" src="https://github.com/MrSampaio/MrSampaio/assets/118141328/d33945fa-c5f3-4d2a-9031-107b34a222a0"> -->
 </div>
 
 <br>
