@@ -95,7 +95,7 @@ Before diving into the mobile world, I built a solid foundation as a Full Stack 
 <br>
 
 <div>
-  <h2>Informações de Contato</h2>
+  <h2>Contact me!</h2>
   <a href="mailto:jusampa2@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://wa.me/+5511988739957" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/jusampa" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
