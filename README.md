@@ -83,19 +83,10 @@ Before diving into the mobile world, I built a solid foundation as a Full Stack 
   <img height="50" width="50" alt="Photoshop" title="Photoshop" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" />
 </div>
 
-<br>
+
+## Contact me!
 
 <div>
-  <h2>Sistemas Operacionais</h2>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
-  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
-  <img src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white">
-</div>
-
-<br>
-
-<div>
-  <h2>Contact me!</h2>
   <a href="mailto:jusampa2@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://wa.me/+5511988739957" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/jusampa" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
@@ -109,4 +100,8 @@ Before diving into the mobile world, I built a solid foundation as a Full Stack 
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MrSampaio/MrSampaio/output/github-contribution-grid-snake.svg">
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/MrSampaio/MrSampaio/output/github-contribution-grid-snake.svg">
   </picture>
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=673399&height=70&section=footer" width="100%" />
 </div>
