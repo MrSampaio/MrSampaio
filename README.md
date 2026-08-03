@@ -41,10 +41,10 @@ Before diving into the mobile world, I built a solid foundation as a Full Stack 
 
 ### Languages
 <div style="display: flex; gap: 30px; flex-wrap: wrap; margin-bottom: 20px;">
-  <img height="50" width="50" alt="Swift" title="Swift" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swift/swift-original.svg" />
   <img height="50" width="50" alt="JavaScript" title="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
   <img height="50" width="50" alt="Java" title="Java" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
   <img height="50" width="50" alt="PHP" title="PHP" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
+  <img height="50" width="50" alt="Swift" title="Swift" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swift/swift-original.svg" />
   <img height="50" width="50" alt="C++" title="C++" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
   <img height="50" width="50" alt="HTML5" title="HTML5" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
   <img height="50" width="50" alt="CSS3" title="CSS3" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
@@ -68,11 +68,19 @@ Before diving into the mobile world, I built a solid foundation as a Full Stack 
   <img height="50" width="50" alt="Supabase" title="Supabase" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/supabase/supabase-original.svg" />
 </div>
 
+### Development Tools
+<div style="display: flex; gap: 30px; flex-wrap: wrap; margin-bottom: 20px;">
+  <img height="50" width="50" alt="Git" title="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
+  <img height="50" width="50" alt="VS Code" title="VS Code" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
+  <img height="50" width="50" alt="IntelliJ IDEA" title="IntelliJ IDEA" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" />
+  <img height="50" width="50" alt="Eclipse" title="Eclipse" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/eclipse/eclipse-original.svg" />
+  <img height="50" width="50" alt="Xcode" title="Xcode" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/xcode/xcode-original.svg" />
+</div>
+
 ### Design & Tools
 <div style="display: flex; gap: 30px; flex-wrap: wrap;">
   <img height="50" width="50" alt="Figma" title="Figma" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
   <img height="50" width="50" alt="Photoshop" title="Photoshop" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" />
-    <img height="50" width="50" alt="Photoshop" title="Illustrator" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/illustrator/illustrator-original.svg" />
 </div>
 
 <br>
