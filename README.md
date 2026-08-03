@@ -81,6 +81,7 @@ Before diving into the mobile world, I built a solid foundation as a Full Stack 
 <div style="display: flex; gap: 30px; flex-wrap: wrap;">
   <img height="50" width="50" alt="Figma" title="Figma" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
   <img height="50" width="50" alt="Photoshop" title="Photoshop" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" />
+  <img height="50" width="50" alt="Illustrator" title="Illustrator" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/illustrator/illustrator-original.svg" />
 </div>
 
 
