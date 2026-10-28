@@ -28,7 +28,7 @@ Before diving into the mobile world, I built a solid foundation as a Full Stack 
   <img 
     alt="GitHub Stats" 
     height="200" 
-    src="https://github-stats-extended.vercel.app/api?username=MrSampaio&show_icons=true&theme=tokyonight&locale=en&include_all_commits=true&cache_seconds=86400&hide_rank=true"
+    src="https://github-stats-extended.vercel.app/api?username=MrSampaio&show_icons=true&theme=tokyonight&locale=en&include_all_commits=true&cache_seconds=86400&hide_rank=false"
   />
   <img 
     alt="Top Languages" 
