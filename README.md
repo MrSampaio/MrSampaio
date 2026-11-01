@@ -62,6 +62,7 @@ Before diving into the mobile world, I built a solid foundation as a Full Stack 
 ### Databases & Cloud
 <div style="display: flex; gap: 30px; flex-wrap: wrap; margin-bottom: 20px;">
   <img height="50" width="50" alt="MySQL" title="MySQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-plain-wordmark.svg" />
+  <img height="50" width="50" alt="PostgreSQL" title="PostgreSQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-plain-wordmark.svg" />
   <img height="50" width="50" alt="MongoDB" title="MongoDB" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-plain-wordmark.svg" />
   <img height="50" width="50" alt="Oracle" title="Oracle" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg" />
   <img height="50" width="50" alt="Azure SQL" title="Azure SQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" />
@@ -71,6 +72,7 @@ Before diving into the mobile world, I built a solid foundation as a Full Stack 
 ### Development Tools
 <div style="display: flex; gap: 30px; flex-wrap: wrap; margin-bottom: 20px;">
   <img height="50" width="50" alt="Git" title="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
+  <img height="50" width="50" alt="Docker" title="Docker" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" />
   <img height="50" width="50" alt="VS Code" title="VS Code" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
   <img height="50" width="50" alt="IntelliJ IDEA" title="IntelliJ IDEA" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" />
   <img height="50" width="50" alt="Eclipse" title="Eclipse" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/eclipse/eclipse-original.svg" />
